@@ -1,0 +1,18 @@
+{
+  "name": "Messages - Misc Tweaks",
+  "description": "Return sends messages; larger attachment and send buttons; smaller message text.",
+  "developer": {
+    "name": "Les Orchard",
+    "url": "http://lmorchard.com"
+  },
+  "package_path": "package.zip",
+  "role": "addon",
+  "type": "certified",
+  "customizations": [{
+    "filter": "sms.gaiamobile.org",
+    "css": [],
+    "scripts": ["index.js"]
+  }],
+  "icons": {
+  }
+}
